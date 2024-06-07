@@ -7,7 +7,9 @@ import Home from './screens/Home';
 import Rides from './screens/Rides'; 
 import RideDetail from './screens/RideDetail'; 
 import NotFound from './screens/NotFound'; 
+
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 //import 'react-toastify/dist/ReactToastify.css'; 
 //import { ToastContainer } from 'react-toastify'; 
 
